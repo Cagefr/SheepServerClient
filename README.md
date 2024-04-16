@@ -9,5 +9,3 @@ Pictures:
 <img src= "/Pictures/SheepClientScreenshot.PNG" alt= "image 1" width 50% />
 
 </div>
-
-![image 1](/Pictures/SheepClientScreenshot.PNG)
