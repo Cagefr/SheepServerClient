@@ -10,4 +10,4 @@ Pictures:
 
 </div>
 
-![image 1](/Pictures/SheepClientScreenshot.png){width=50%}
+![image 1](/Pictures/SheepClientScreenshot.PNG){width=50%}
