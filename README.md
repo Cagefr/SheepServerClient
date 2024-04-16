@@ -6,8 +6,8 @@ Includes:
 
 Pictures:
 <div style= display = "flex">
-<img src= "/Pictures/SheepClientScreenshot.png" alt= "image 1" width 50% />
+<img src= "/Pictures/SheepClientScreenshot.PNG" alt= "image 1" width 50% />
 
 </div>
 
-![image 1](/Pictures/SheepClientScreenshot.PNG){width=50%}
+![image 1](/Pictures/SheepClientScreenshot.PNG)
