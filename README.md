@@ -6,5 +6,5 @@ Includes:
 
 Pictures:
 <div style= display = "flex">
-<img src= "/pictures/SheepClientScreenshot.png" alt= "image 1" width 50% />
+<img src= "/Pictures/SheepClientScreenshot.png" alt= "image 1" width 50% />
 </div>
